@@ -1,6 +1,6 @@
 # Arch Linux ARM on a Casio fx-991ES PLUS with Raspberry Pi 3 B+
 
-![Casio fx-991ES PLUS Linux build](calc.png)
+<img src="calc.png" alt="Casio fx-991ES PLUS Linux build" width="300">
 
 Build the Linux side on a Raspberry Pi 3 Model B+, bring up the calculator interfaces separately, then integrate the assemblies. Follow the sequence below: boot media, first boot, processor checks, keyboard, display, drivers, and mechanical installation.
 
